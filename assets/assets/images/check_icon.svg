@@ -1,0 +1,9 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Ellipse_10" data-name="Ellipse 10" fill="none" stroke="#002768" stroke-width="1.7">
+    <circle cx="12" cy="12" r="12" stroke="none"/>
+    <circle cx="12" cy="12" r="11.15" fill="none"/>
+  </g>
+  <g id="check_1_" data-name="check (1)" transform="translate(7.016 8.555)">
+    <path id="Path_1480" data-name="Path 1480" d="M6.569,11.394,4.73,9.555a.529.529,0,0,0-.747.747L6.2,12.518a.528.528,0,0,0,.747,0L12.554,6.91a.529.529,0,1,0-.747-.747Z" transform="translate(-3.827 -6.008)" fill="#002768" stroke="#002768" stroke-width="1"/>
+  </g>
+</svg>
